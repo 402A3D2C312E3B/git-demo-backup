@@ -7,4 +7,3 @@ HELLO
 WORLD
 SIDE HERE COMES
 -----------
-HELLO
