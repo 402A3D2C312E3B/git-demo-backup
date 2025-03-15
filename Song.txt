@@ -18,4 +18,5 @@ Additional branch non ff merge test
 -----------
 
 Conflict simulation
+Conflict feature
 -----------
