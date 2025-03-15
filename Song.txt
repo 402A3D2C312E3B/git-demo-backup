@@ -13,3 +13,6 @@ New Branch
 
 New Branch second commit
 -----------
+
+Additional branch non ff merge test
+-----------
