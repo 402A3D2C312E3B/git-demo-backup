@@ -10,3 +10,6 @@ SIDE HERE COMES
 
 New Branch
 -----------
+
+New Branch second commit
+-----------
